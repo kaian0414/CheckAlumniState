@@ -1,4 +1,4 @@
-# Check Alumni State
+# Check Alumni/Students State
 All MPI/MPU students can apply documents online (https://wapps2.ipm.edu.mo/rvdweb/pd_student_login.asp). This website requires the Identity Card and Date of Birth for entering the system. This is convenience for alumni because some may forget their student ID.
 
 Actually, alumni can also find their student ID through the website when they forgot.
@@ -10,6 +10,7 @@ The following information should be sequentially write into the excel file (name
 - Identity Card number (format: 12345678, 1234567/8, 1234567(8))
 - Month of Birth (format: two digits, e.g. 04)
 - Day of Birth (format: two digits, e.g. 14)
+![login](https://user-images.githubusercontent.com/34164281/162584816-56a5fea1-39ff-4e33-bd62-541893373c46.png)
 
 ## Getting the information from Website
 After login in, the student ID, name and programmes are provided. With the understanding of the web design, some students/alumni information are included. We can check if that person is graduated or still leanring at MPI/MPU.
