@@ -26,6 +26,9 @@ Only saved the latest graduated information, no matter how many degrees that the
 
 The checked infomation (graduated and non_graduated) is save into the excel file (with currect date identify).
 
+## Sample files
+In this repository, two sample files are provided. It is used for readers to understand what should be put in the name.xlsx for checking and what will be the output.
+
 ## Special Statement
 - This coding is just for learning, please don't use it as other purpose.
 - This design is available on 10-Apr 2022, if there is some changes in the future, this coding may not be workable.
