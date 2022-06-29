@@ -30,6 +30,6 @@ The checked infomation (graduated and non_graduated) is save into the excel file
 ## Sample files
 In this repository, two sample files are provided. It is used for readers to understand what should be put in the name.xlsx for checking and what will be the output.
 
-## Special Statement
+## Special Statements
 - This coding is just for learning, please don't use it as other purpose.
 - This design is available on 10-Apr 2022, if there is some changes in the future, this coding may not be workable.
